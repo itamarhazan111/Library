@@ -1,0 +1,201 @@
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\UI.exe.config
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\UI.exe
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\UI.pdb
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\Dapper.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\Lib.pdb
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\Dapper.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.g.resources
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.exe
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\UI.pdb
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\AddWindow.g.cs
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\AddWindow.baml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\HomePage.g.cs
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\HomePage.baml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\Lib.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\bin\Debug\Lib.dll.config
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\DailyReport.g.cs
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\DailyReport.baml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\SalesPage.g.cs
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\SalesPage.baml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\RegisterPage.g.cs
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\UI\obj\Debug\RegisterPage.baml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\UI.exe.config
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\UI.exe
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\UI.pdb
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\Dapper.dll
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\Lib.dll
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\Lib.pdb
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\Lib.dll.config
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\Dapper.xml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\AddWindow.g.cs
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\DailyReport.g.cs
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\HomePage.g.cs
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\RegisterPage.g.cs
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\SalesPage.g.cs
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\AddWindow.baml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\DailyReport.baml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\HomePage.baml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\RegisterPage.baml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\SalesPage.baml
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.g.resources
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.exe
+C:\Users\user\Downloads\Lib (4)\Lib\UI\obj\Debug\UI.pdb
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\UI.exe.config
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\UI.exe
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\UI.pdb
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\Dapper.dll
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\EntityFramework.dll
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\Lib.dll
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\Lib.pdb
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\Lib.dll.config
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\Dapper.xml
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\EntityFramework.xml
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\רפאל\Desktop\Lib\UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\AddWindow.g.cs
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\DailyReport.g.cs
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\HomePage.g.cs
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\MainWindow.g.cs
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\RegisterPage.g.cs
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\SalesPage.g.cs
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\App.g.cs
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\AddWindow.baml
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\DailyReport.baml
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\HomePage.baml
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\MainWindow.baml
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\RegisterPage.baml
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\SalesPage.baml
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.g.resources
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.exe
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI.pdb
+C:\Users\רפאל\Desktop\Lib\UI\obj\Debug\UI_Content.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\UI.exe.config
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\UI.exe
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\UI.pdb
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\Dapper.dll
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\Lib.dll
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\Lib.pdb
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\Lib.dll.config
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\Dapper.xml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\AddWindow.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\DailyReport.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\HomePage.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\RegisterPage.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\SalesPage.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI_Content.g.cs
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\AddWindow.baml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\DailyReport.baml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\HomePage.baml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\RegisterPage.baml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\SalesPage.baml
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.g.resources
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.exe
+C:\Users\user\Downloads\Lib (5)\Lib\UI\obj\Debug\UI.pdb
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\UI.exe.config
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\UI.exe
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\UI.pdb
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\Dapper.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\EntityFramework.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\Lib.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\System.Data.SQLite.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\Lib.pdb
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\Lib.dll.config
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\Dapper.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\EntityFramework.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\bin\Debug\System.Data.SQLite.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\AddWindow.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\DailyReport.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\HomePage.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\MainWindow.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\RegisterPage.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\SalesPage.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\App.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI_Content.g.cs
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI_MarkupCompile.cache
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI_MarkupCompile.lref
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\AddWindow.baml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\DailyReport.baml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\HomePage.baml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\MainWindow.baml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\RegisterPage.baml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\SalesPage.baml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.g.resources
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.exe
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\UI\obj\Debug\UI.pdb

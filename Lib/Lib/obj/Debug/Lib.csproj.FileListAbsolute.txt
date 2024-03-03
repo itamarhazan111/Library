@@ -1,0 +1,121 @@
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\Lib.exe.config
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\Lib.exe
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\Lib.pdb
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\Dapper.dll
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\EntityFramework.dll
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\Dapper.xml
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\EntityFramework.xml
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.exe
+C:\Users\user\itamar learn c#\DT && ALGOR\Lib\Lib\obj\Debug\Lib.pdb
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\Lib.pdb
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\Dapper.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\System.Data.SQLite.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\Dapper.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\System.Data.SQLite.xml
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\obj\Debug\Lib.pdb
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\Lib.dll.config
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\bin\Debug\Lib.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\obj\Debug\Lib.dll
+C:\Users\Daniel\Desktop\פיתוח תוכנה - סלע\Library Project\Lib\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\Lib.dll.config
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\Lib.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\Lib.pdb
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\Dapper.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\Dapper.xml
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\obj\Debug\Lib.dll
+C:\Users\user\Downloads\Lib (4)\Lib\Lib\obj\Debug\Lib.pdb
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\Lib.dll.config
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\Lib.dll
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\Lib.pdb
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\Dapper.dll
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\EntityFramework.dll
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\System.Data.SQLite.dll
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\Dapper.xml
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\EntityFramework.xml
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\רפאל\Desktop\Lib\Lib\bin\Debug\System.Data.SQLite.xml
+C:\Users\רפאל\Desktop\Lib\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Users\רפאל\Desktop\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\רפאל\Desktop\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+C:\Users\רפאל\Desktop\Lib\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\רפאל\Desktop\Lib\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Users\רפאל\Desktop\Lib\Lib\obj\Debug\Lib.dll
+C:\Users\רפאל\Desktop\Lib\Lib\obj\Debug\Lib.pdb
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\Lib.dll.config
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\Lib.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\Lib.pdb
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\Dapper.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\Dapper.xml
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\obj\Debug\Lib.csproj.CopyComplete
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\obj\Debug\Lib.dll
+C:\Users\user\Downloads\Lib (5)\Lib\Lib\obj\Debug\Lib.pdb
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\Lib.dll.config
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\Lib.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\Lib.pdb
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\Dapper.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\EntityFramework.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\System.Data.SQLite.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\Dapper.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\EntityFramework.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\bin\Debug\System.Data.SQLite.xml
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\obj\Debug\Lib.Properties.Resources.resources
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\obj\Debug\Lib.csproj.GenerateResource.cache
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\obj\Debug\Lib.csproj.CopyComplete
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\obj\Debug\Lib.dll
+D:\Gibuy\user\עבודות\c# projects\Library\Lib\Lib\obj\Debug\Lib.pdb
